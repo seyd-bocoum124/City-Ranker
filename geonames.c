@@ -3,7 +3,6 @@
 #include <stdlib.h>
 /**
 * NOM : Seydina Bocoum
-* CODE PERMANENT: BOCS92260401
 */
 
 #define TAILLE_BUFFER 4096          // Taille maximale du buffer pour la lecture de lignes dans les fichiers
